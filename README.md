@@ -1,9 +1,6 @@
 # learn-data-visualization
 Repository for data visualization learners. This project might help you with data visualization principles, tools, peoples, designs etc
 
-# learn-data-visualization
-Repository for data visualization learners. This project might help you with data visualization principles, tools, peoples, designs etc
-
 ### Videos
 - Hans Rosling
   - [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w&t=81s)
